@@ -1,0 +1,24 @@
+
+.column {
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 33%;
+  float: left;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: 300px;
+  float: left;
+  display: block;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  display: block;
+}
